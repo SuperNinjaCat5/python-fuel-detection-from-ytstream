@@ -1,0 +1,11 @@
+[project]
+name = "opencvtesting"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "opencv-python>=5.0.0.93",
+    "streamlink>=8.6.2",
+    "yt-dlp>=2026.8.19",
+]
